@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Quizee</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>lets learn and improve</description>
+	<lastBuildDate>Sat, 29 Jan 2022 09:35:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>Report Writing</title>
+		<link>/magazine-report-writing/</link>
+					<comments>/magazine-report-writing/#respond</comments>
+		
+		<dc:creator><![CDATA[ayushi]]></dc:creator>
+		<pubDate>Sat, 29 Jan 2022 09:32:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=588</guid>
+
+					<description><![CDATA[Learn how to write a report for your school magazine or for a newspaper by seeing the format.]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Essentially, a report is a short, sharp, concise document that is written for a particular purpose and audience.</strong> It generally sets outs and analyses a situation or problem, often making recommendations for future action. It is a factual paper and needs to be clear and well-structured.</p>
+
+
+
+<h2>Magazine report</h2>
+
+
+
+<pre class="wp-block-preformatted">                                    Heading of report
+                              By line- Name of the writer
+
+The opening paragraph (introduction) 
+The account of the event in detail- The proper sequence of events that occurred.
+Conclusion– This will include a description of how the event ended. It may include quote excerpts from the Chief Guest’s speech or how did the event wind up.</pre>
+
+
+
+<h2>newspaper report</h2>
+
+
+
+<pre class="wp-block-preformatted">                                  Heading of report
+By line- Name of the writer
+Place and date of reporting
+
+The opening paragraph (introduction) 
+The account of the event in detail- The proper sequence of events that occurred.
+Conclusion– This will include a description of how the event ended. It may include quote excerpts from the Chief Guest’s speech or how did the event wind
+
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/magazine-report-writing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Article Writing</title>
+		<link>/article-writing/</link>
+					<comments>/article-writing/#respond</comments>
+		
+		<dc:creator><![CDATA[ayushi]]></dc:creator>
+		<pubDate>Sat, 29 Jan 2022 09:23:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=586</guid>
+
+					<description><![CDATA[Have you ever wondered how the articles in news and magazines are written. To check the format for article writing visit this post.]]></description>
+										<content:encoded><![CDATA[
+<p>We always come across several articles published in newspapers or magazines. An article writing is <strong>written to reach a massive audience with the help of the press</strong>. These articles follow a specific format.</p>
+
+
+
+<pre class="wp-block-preformatted">                                           Title Of The Article
+                                                        By - (Writer Name)
+
+Body (Main part of the title)- Introductive paragraph
+Descriptive Paragraph
+
+Additional Information if needed
+
+conclusion</pre>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/article-writing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Email Writing</title>
+		<link>/email-writing/</link>
+					<comments>/email-writing/#respond</comments>
+		
+		<dc:creator><![CDATA[ayushi]]></dc:creator>
+		<pubDate>Sat, 29 Jan 2022 09:11:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=582</guid>
+
+					<description><![CDATA[ Email stands for electronic mail.
+To check the format for writing Emails visit this post. ]]></description>
+										<content:encoded><![CDATA[
+<p> Email stands for electronic mail.</p>
+
+
+
+<p>Email writing is one of the most required skills in today&#8217;s professional world.</p>
+
+
+
+<pre class="wp-block-preformatted">To : (mail id of the recipient)
+Cc :
+Bcc : 
+Subject :
+Salutation : (Respected sir / ma'am)
+
+Content : .......
+....
+....
+
+Thanks and Regards,
+(Name)
+(Designation )
+(Contact Details)
+</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/email-writing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
